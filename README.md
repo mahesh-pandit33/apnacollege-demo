@@ -1,9 +1,7 @@
 # apnacollege-demo
 this is first repo.
 <br>
-Author-MaheshSSSSSMMMM
+Author-Mahesh
 
 
 Hello are you there?
-
-khkuhk
